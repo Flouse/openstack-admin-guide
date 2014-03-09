@@ -17,7 +17,7 @@
 * Blog: `<http://x.y>`_
 
 
-Get Started with OpenStack
+Get started with OpenStack
 ==========================
 
 .. toctree::
