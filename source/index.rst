@@ -21,7 +21,7 @@ Get started with OpenStack
 ==========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    started/index
 
