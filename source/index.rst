@@ -11,8 +11,8 @@
 
 如果发现文档有任何问题，欢迎通过以下任何一种方式联系译者：
 
-* Email: yugsuo@gmail.com
-* Weibo: `@索广宇 <http://weibo.com/yugsuo>`_
+* Email: x@y.com
+* Weibo: `@me <http://weibo.com/>`_
 * Blog: `<http://hackerain.me>`_
 
 .. toctree::
