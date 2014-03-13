@@ -6,7 +6,6 @@ OpenStack项目是一个开源云计算平台，该项目的宗旨是易于使�
 
 下表简单的描述了组成OpenStack的各个服务：
 
-
 .. toctree::
    :maxdepth: 2
 
