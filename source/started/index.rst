@@ -6,6 +6,20 @@ OpenStack项目是一个开源云计算平台，该项目的宗旨是易于使�
 
 下表简单的描述了组成OpenStack的各个服务：
 
+==================      ==============                ==================
+Service                 Project Name                  Description
+==================      ==============                ==================
+Dashboard               Horizon                       提供了一个基于web的控制面板，和底层的各个OpenStack服务进行交互，比如创建虚拟机实例，分配IP地址，控制访问权限等。
+Compute                 Nova                          管理虚拟机实例(instance)的整个生命周期，主要负责根据需求来创建，调度，销毁虚拟机实例。
+Networking              Neutron
+ObjectStorage           Swift
+BlockStorage            Cinder
+Identity Service        Keystone
+Image Service           Glance
+Telemetry               Ceilometer
+Orchestration           Heat
+==================      ==============                ==================
+
 .. toctree::
    :maxdepth: 2
 
